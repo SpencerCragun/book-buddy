@@ -1,13 +1,13 @@
 # BookBuddy React App
 
-- [ ] Set up github
-- [ ] Connect to API
+- [x] Set up github
+- [x] Connect to API
 - [ ] Have Routes Set up
   - [ ] /books route
   - [ ] /books/:id route
   - [ ] /login route
   - [ ] / account route
-- [ ] Page Displaying Books
+- [x] Page Displaying Books
 - [ ] Individual Book Details
 - [ ] Login Page
 - [ ] Account Page
